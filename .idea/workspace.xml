@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c25d19fa-62af-4ff6-9b95-0855f4d3ea57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shopping@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shopping@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rk6a2tbZOD0JU1ncS5APDJaScS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/media/message/images" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pyCharmProject\shopping\media\message\images" />
+      <recent name="E:\pyCharmProject\shopping\db_tools" />
+      <recent name="E:\pyCharmProject\shopping\db_tools\data" />
+      <recent name="D:\Anaconda\envs\shopping\Lib\site-packages" />
+      <recent name="E:\pyCharmProject\shopping\extra_apps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pyCharmProject\shopping\apps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.shopping">
+    <configuration name="import_category_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_category_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_goods_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/data/product_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping" type="Python.DjangoServer" factoryName="Django server">
+      <module name="shopping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="shopping.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.import_goods_data" />
+        <item itemvalue="Python.import_category_data" />
+        <item itemvalue="Python.product_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19701986" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25d19fa-62af-4ff6-9b95-0855f4d3ea57" name="Default Changelist" comment="" />
+      <created>1619507800441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619507800441</updated>
+      <workItem from="1619507865747" duration="4478000" />
+      <workItem from="1619521123177" duration="6991000" />
+      <workItem from="1619531945030" duration="1035000" />
+      <workItem from="1619574740810" duration="985000" />
+      <workItem from="1619600531206" duration="1547000" />
+      <workItem from="1619609263137" duration="5192000" />
+      <workItem from="1619681623945" duration="8555000" />
+      <workItem from="1620260607332" duration="10269000" />
+      <workItem from="1620462852556" duration="5153000" />
+      <workItem from="1620476711882" duration="56000" />
+      <workItem from="1620522288746" duration="47000" />
+      <workItem from="1620522637119" duration="5647000" />
+      <workItem from="1620542759944" duration="6671000" />
+      <workItem from="1620635421796" duration="1227000" />
+      <workItem from="1620647523067" duration="1463000" />
+      <workItem from="1620692445466" duration="6472000" />
+      <workItem from="1620716206158" duration="4148000" />
+      <workItem from="1620730834345" duration="3108000" />
+      <workItem from="1620818497453" duration="6163000" />
+      <workItem from="1620827763369" duration="1287000" />
+      <workItem from="1621043273585" duration="1389000" />
+      <workItem from="1621127759359" duration="7578000" />
+      <workItem from="1621153365864" duration="2559000" />
+      <workItem from="1621234144053" duration="4038000" />
+      <workItem from="1621305001384" duration="5950000" />
+      <workItem from="1621390845708" duration="4327000" />
+      <workItem from="1621426563235" duration="6596000" />
+      <workItem from="1621470785890" duration="1861000" />
+      <workItem from="1621478176068" duration="3106000" />
+      <workItem from="1621515448900" duration="1316000" />
+      <workItem from="1621556872703" duration="3805000" />
+      <workItem from="1621601417399" duration="1126000" />
+      <workItem from="1621752460725" duration="1871000" />
+      <workItem from="1621756012147" duration="1984000" />
+      <workItem from="1621773053405" duration="41000" />
+      <workItem from="1621782696983" duration="695000" />
+      <workItem from="1621817695040" duration="6963000" />
+      <workItem from="1621857514881" duration="5871000" />
+      <workItem from="1621864515600" duration="853000" />
+      <workItem from="1621916473288" duration="3105000" />
+      <workItem from="1622166516387" duration="5287000" />
+      <workItem from="1622287490722" duration="7467000" />
+      <workItem from="1622341791957" duration="2945000" />
+      <workItem from="1622377304690" duration="4008000" />
+      <workItem from="1622474349244" duration="631000" />
+      <workItem from="1622514108357" duration="2733000" />
+      <workItem from="1622530472561" duration="4730000" />
+      <workItem from="1622619776445" duration="42000" />
+      <workItem from="1622882971414" duration="9669000" />
+      <workItem from="1623139062773" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="195" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620467152923">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="195" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1620467152923" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1620476767089">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1620476767089" />
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom" timestamp="1622900218641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622900218641" />
+    <state width="1237" height="91" key="GridCell.Tab.0.bottom/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1622381320939" />
+    <state width="1237" height="119" key="GridCell.Tab.0.center" timestamp="1622900218641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622900218641" />
+    <state width="1237" height="91" key="GridCell.Tab.0.center/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1622381320939" />
+    <state width="1237" height="119" key="GridCell.Tab.0.left" timestamp="1622900218641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622900218641" />
+    <state width="1237" height="91" key="GridCell.Tab.0.left/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1622381320939" />
+    <state width="1237" height="119" key="GridCell.Tab.0.right" timestamp="1622900218641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622900218641" />
+    <state width="1237" height="91" key="GridCell.Tab.0.right/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1622381320939" />
+    <state width="1237" height="186" key="GridCell.Tab.1.bottom" timestamp="1620830029443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="186" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620830029443" />
+    <state width="1237" height="186" key="GridCell.Tab.1.center" timestamp="1620830029443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="186" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1620830029443" />
+    <state width="1237" height="186" key="GridCell.Tab.1.left" timestamp="1620830029443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="186" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1620830029443" />
+    <state width="1237" height="186" key="GridCell.Tab.1.right" timestamp="1620830029443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="186" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1620830029443" />
+    <state x="142" y="0" width="995" height="680" key="SettingsEditor" timestamp="1621773094823">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1620267296730" />
+    <state x="142" y="0" width="995" height="680" key="SettingsEditor/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1621773094823" />
+    <state x="532" y="231" width="338" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1621860049257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="532" y="231" width="338" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.680@0.0.1280.680" timestamp="1620269334085" />
+    <state x="532" y="231" width="338" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1621860049257" />
+    <state x="371" y="146" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1621859184144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="146" key="com.intellij.database.dbimport.ImportUtil.MyDialog/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1621859184144" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1623139064759">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1623139064759" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1622377334115" />
+    <state x="600" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1622296282305">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="600" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1621129980007" />
+    <state x="600" y="1" width="672" height="678" key="search.everywhere.popup/1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1622296282305" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shopping$product_data.coverage" NAME="product_data Coverage Results" MODIFIED="1620523951118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools/data" />
+    <SUITE FILE_PATH="coverage/shopping$import_category_data.coverage" NAME="import_category_data Coverage Results" MODIFIED="1621863902863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/shopping$import_goods_data.coverage" NAME="import_goods_data Coverage Results" MODIFIED="1621864660781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+  </component>
+</project>
